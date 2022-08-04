@@ -21,8 +21,8 @@ But the event with my friend made me ask myself this question:
 
 "CAN I ...?"
 
-...I think it was in 1996 when I used C for the last time (25 years ago). Actually it was Borland C under MS Dos (if anyone still remembers this antiquity)
-The last code I wrote was around 2006 and it was in VBA (15 years ago).
+...I think it was in 1996 when I used C for the last time (25 years in the past). Actually it was Borland C under MS Dos (if anyone still remembers this antiquity)
+The last code I wrote was around 2006 and it was in VBA (15 years in the past). And I had no clue about C#
 
 "CAN I DO IT?"
 
@@ -33,3 +33,5 @@ And I also have to apologize to the professional software developers for the mes
 
 I am grateful for your patience to read my story.
 That's why I have good news for you: It doesn't matter what your dreams are, it may be hard, but you can do it.
+
+This is not the end of the story!
