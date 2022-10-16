@@ -1,0 +1,32 @@
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.exe
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.deps.json
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.runtimeconfig.json
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.runtimeconfig.dev.json
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.dll
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.pdb
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.csproj.AssemblyReference.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\Constants.resources
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.csproj.GenerateResource.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.AssemblyInfoInputs.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.AssemblyInfo.cs
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.csproj.CoreCompileInputs.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.dll
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.pdb
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Copy\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.genruntimeconfig.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.exe
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.deps.json
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.runtimeconfig.json
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.runtimeconfig.dev.json
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.dll
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\bin\Debug\netcoreapp3.1\RotatingBody.pdb
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.csproj.AssemblyReference.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\Constants.resources
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.csproj.GenerateResource.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.AssemblyInfoInputs.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.AssemblyInfo.cs
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.csproj.CoreCompileInputs.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.dll
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.pdb
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C# - Using Mouse\Linii\Linii\obj\Debug\netcoreapp3.1\RotatingBody.genruntimeconfig.cache
