@@ -1,0 +1,16 @@
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\bin\Debug\netcoreapp3.1\Linii.exe
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\bin\Debug\netcoreapp3.1\Linii.deps.json
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\bin\Debug\netcoreapp3.1\Linii.runtimeconfig.json
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\bin\Debug\netcoreapp3.1\Linii.runtimeconfig.dev.json
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\bin\Debug\netcoreapp3.1\Linii.dll
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\bin\Debug\netcoreapp3.1\Linii.pdb
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Linii.csproj.AssemblyReference.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Constants.resources
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Linii.csproj.GenerateResource.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Linii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Linii.AssemblyInfoInputs.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Linii.AssemblyInfo.cs
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Linii.csproj.CoreCompileInputs.cache
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Linii.dll
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Linii.pdb
+C:\Users\CATALIN\source\repos\GitHub-SpinningBody C#\Linii\Linii\obj\Debug\netcoreapp3.1\Linii.genruntimeconfig.cache
