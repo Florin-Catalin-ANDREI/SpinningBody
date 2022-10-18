@@ -1,4 +1,4 @@
-# SpinningBody
+# Rotating 3D geometric body
 Personal project. Objective: familiarization with the C# environment
 
 
